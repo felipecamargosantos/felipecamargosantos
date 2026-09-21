@@ -1,4 +1,4 @@
-# Olá, sou o Felipe Camargo1 👋
+# Olá, sou o Felipe Camargo👋
 
 Engenheiro focado na interseção entre **Engenharia de Dados**, **MLOps Produtivo** e **Sistemas Distribuídos**. Desenvolvo esteiras de dados resilientes, APIs de Machine Learning orientadas a métricas de negócio e arquiteturas em tempo real.
 
